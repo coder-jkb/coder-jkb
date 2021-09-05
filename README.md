@@ -1,4 +1,4 @@
-<img style="height: 100px; width: 300px;" src="https://i.ibb.co/mhyFnj9/talk-Is-Cheap.jpg" alt="talk-Is-Cheap" border="0"></a>
+<img style="height: 300px; width: 1400px;" src="https://i.ibb.co/mhyFnj9/talk-Is-Cheap.jpg" alt="talk-Is-Cheap" border="0"></a>
 
 ### Hi there, I am Jay B👋
 I aim to become an AI expert...
