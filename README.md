@@ -13,6 +13,3 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,java)](https://skillicons.dev)
 ### Web Dev
 [![My Skills](https://skillicons.dev/icons?i=django,html,css,tailwind,js,react,mongodb,sqlite,bootstrap,git,heroku)](https://skillicons.dev)
-
- https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
