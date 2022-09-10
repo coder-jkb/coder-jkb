@@ -1,4 +1,4 @@
-<img style="height: 260px; width: 1400px;" src="https://i.ibb.co/mhyFnj9/talk-Is-Cheap.jpg" alt="talk-Is-Cheap" border="0"></a>
+<img style="height: 250px; width: 1400px;" src="https://i.ibb.co/mhyFnj9/talk-Is-Cheap.jpg" alt="talk-Is-Cheap" border="0"></a>
 
 ### Hi there, I am Jay Bhanushali 👋
 #### Love to learn new skills especially in tech.
