@@ -12,4 +12,4 @@
 ### Programing languages
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,java)](https://skillicons.dev)
 ### Web Dev
-[![My Skills](https://skillicons.dev/icons?i=django,html,css,tailwind,js,react,mongodb,sqlite,bootstrap,git,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,html,css,tailwind,js,react,mongodb,sqlite,bootstrap,git)](https://skillicons.dev)
